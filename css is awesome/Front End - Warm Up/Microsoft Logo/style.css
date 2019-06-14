@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+#box{
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#sq1{
+    width: 195px;
+    height: 195px;
+    background-color: #F25022;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#sq2{
+    width: 195px;
+    height: 195px;
+    background-color: #7FBA00;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#sq3{
+    width: 195px;
+    height: 195px;
+    background-color: #00A4EF;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+#sq4{
+    width: 195px;
+    height: 195px;
+    background-color: #FFB900;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
