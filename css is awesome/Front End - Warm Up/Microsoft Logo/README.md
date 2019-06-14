@@ -24,6 +24,7 @@ Each inner square must placed in the correct corner of the #box as displayed in 
 Wrap your submission files as a zip file with index.html in the root:
 
 filename.zip
+
 ├── index.html
 
 └── style.css
