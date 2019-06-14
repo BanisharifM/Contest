@@ -12,13 +12,18 @@ Each inner square width and height are equal to 195px.
 Background-color of each square is as follow (top-left to bottom-right):
 
 #sq1 --> #F25022
+
 #sq2 --> #7FBA00
+
 #sq3 --> #00A4EF
+
 #sq4 --> #FFB900
+
 Each inner square must placed in the correct corner of the #box as displayed in the picture above if so the space between them will be calculated properly!
 
 Wrap your submission files as a zip file with index.html in the root:
 
 filename.zip
 ├── index.html
+
 └── style.css
